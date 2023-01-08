@@ -145,9 +145,10 @@ header {
 
 @media (min-width: 100px) {
   #cards {
-    max-width: 670px;
-    flex-direction: row;
-    flex-wrap: wrap;
+      max-width: 1000px;
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
   }
 }
 
